@@ -38,7 +38,7 @@ export const PreNameMobile = styled.pre`
 `;
 
 export const PreImg = styled.pre`
-  @media (max-width: 550px) {
+  @media (max-width: 1024px) {
     display: none;
   }
 `;
