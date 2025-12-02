@@ -1,10 +1,10 @@
-import { EduIntro, EduList } from "../styles/Education.styled";
+import { EduIntro, EduList } from "../styles/Experience.styled";
 import { Wrapper } from "../styles/Output.styled";
 
-const Education: React.FC = () => {
+const Experience: React.FC = () => {
   return (
-    <Wrapper data-testid="education">
-      <EduIntro>Here is my education background!</EduIntro>
+    <Wrapper data-testid="Experience">
+      <EduIntro>Here is my experience background!</EduIntro>
       {eduBg.map(({ title, desc }) => (
         <EduList key={title}>
           <div className="title">{title}</div>
@@ -22,4 +22,4 @@ const eduBg = [
   },
 ];
 
-export default Education;
+export default Experience;
