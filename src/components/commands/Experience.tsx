@@ -17,8 +17,8 @@ const Experience: React.FC = () => {
 
 const eduBg = [
   {
-    title: "System Development",
-    desc: "Center of Excellence in Computer Science | 2022 - 2026",
+    title: "Upkid Programming School",
+    desc: "Dedicated teacher with experience teaching both Python programming and AI fundamentals to students of various ages.",
   },
 ];
 
