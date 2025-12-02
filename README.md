@@ -12,10 +12,6 @@ The application supports multiple themes and includes keyboard shortcuts for var
 
 Project within the Center of Excellence in Computer Science: https://ceiti.md
 
-## Demo
-
-<a href="https://www.jinno.app/redirect?from=satnaing&redirect=libary&libName=terminal-portfolio&componentName=App&libCreator=satnaing" target="_blank" rel="noopener noreferrer">Demo - try it in your editor</a>
-
 ## Features
 
 - Responsive Design 📱💻
