@@ -4,7 +4,7 @@ import { Wrapper } from "../styles/Output.styled";
 const Experience: React.FC = () => {
   return (
     <Wrapper data-testid="Experience">
-      <EduIntro>Here is my experience background!</EduIntro>
+      <EduIntro>Here is my work experience!</EduIntro>
       {eduBg.map(({ title, desc }) => (
         <EduList key={title}>
           <div className="title">{title}</div>
