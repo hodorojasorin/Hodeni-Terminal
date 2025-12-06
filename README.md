@@ -49,37 +49,6 @@ Currently, this website supports 6 themes. Type `themes` in the terminal for mor
 <img width="710" alt="Sat Naing Terminal Lighthouse Score" src="public/lighthouse-result.svg">
 </p>
 
-## Running Locally
-
-Clone the project
-
-```bash
-git clone https://github.com/satnaing/terminal-portfolio.git
-```
-
-Go to the project directory
-
-```bash
-cd terminal-portfolio
-```
-
-Remove remote origin
-
-```bash
-git remote remove origin
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start the server
-
-```bash
-npm run dev
-```
 
 ## Inspiration and Credits
 
@@ -92,3 +61,4 @@ Here are some inspiration for this kind of terminal website. Only some features 
 ## Author
 
 - [@satnaing](https://satnaing.dev)
+- [@ASH](https://satnaing.dev)

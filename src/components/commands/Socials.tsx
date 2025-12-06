@@ -57,21 +57,15 @@ const socials = [
   },
   {
     id: 2,
-    title: "Dev.to",
-    url: "https://dev.to/satnaing",
+    title: "LinkedIn",
+    url: "https://linkedin.com/in/sorin-arseni-hodoroja-ba62932a0",
     tab: 3,
   },
   {
     id: 3,
-    title: "LinkedIn",
-    url: "https://linkedin.com/in/sorin-arseni-hodoroja-ba62932a0",
-    tab: 1,
-  },
-  {
-    id: 4,
     title: "Instagram",
     url: "https://instagram.com/sorinarseni",
-    tab: 0,
+    tab: 1,
   },
 ];
 
